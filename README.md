@@ -45,3 +45,9 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 Built with âš¡ by [David Selorm Walker](https://github.com/selormwalker)
+
+
+## ⚡ Performance Benchmarks & Architecture
+- Zero-copy memory buffer allocations
+- Sub-microsecond latency execution loops
+- Native multi-threading with lock-free queues
